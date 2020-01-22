@@ -1,0 +1,19 @@
+
+ 
+ #h1
+ {
+     
+    color: white;
+     background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+     padding: 200px;
+     
+     height: 200px;
+    font-size: 6rem;
+    text-shadow: 3px 3px 3px;
+ }
+ h5
+ {
+    font-size: 1.0rem;
+     color: white;
+    
+ }
